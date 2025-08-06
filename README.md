@@ -1,11 +1,8 @@
 FinFusion – Fusion benchmark for financial multi-modal tasks
 
-[![Dataset](https://img.shields.io/badge/🤗%20Dataset-FinMME-blue)](https://huggingface.co/datasets/luojunyu/FinMME)
-[![Paper](https://img.shields.io/badge/📄%20Paper-ACL%202025-red)](https://github.com/luo-junyu/FinMME)
 
 ## 🔥 Overview
 
-Paper Link: [Arxiv](https://arxiv.org/abs/2505.24714).
 
 **FinFusion* is a comprehensive benchmark dataset designed to evaluate Multimodal Large Language Models (MLLMs) in the financial domain. With around **11,000 high-quality financial samples** spanning **18 financial domains** and **6 asset classes**, FinMME provides a rigorous evaluation framework for financial multimodal reasoning capabilities.
 
