@@ -18,20 +18,6 @@ cd FinMME
 pip install -r requirements.txt
 ```
 
-### Dataset Loading
-
-```python
-from datasets import load_dataset
-
-# Load the dataset
-dataset = load_dataset("luojunyu/FinMME", split="train")
-
-# Access a sample
-sample = dataset[0]
-print(f"Question: {sample['question_text']}")
-print(f"Answer: {sample['answer']}")
-print(f"Question Type: {sample['question_type']}")
-```
 
 ### Running Evaluation
 
