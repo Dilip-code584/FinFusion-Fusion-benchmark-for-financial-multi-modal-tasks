@@ -13,7 +13,7 @@ FinFusion – Fusion benchmark for financial multi-modal tasks
 ### Installation
 
 ```bash
-git clone https://github.com/luo-junyu/FinMME.git
+git clone https://github.com/Dilip-code584/FinFusion-Fusion-benchmark-for-financial-multi-modal-tasks/tree/main
 cd FinMME
 pip install -r requirements.txt
 ```
