@@ -2,13 +2,12 @@ FinFusion – Fusion benchmark for financial multi-modal tasks
 
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-FinMME-blue)](https://huggingface.co/datasets/luojunyu/FinMME)
 [![Paper](https://img.shields.io/badge/📄%20Paper-ACL%202025-red)](https://github.com/luo-junyu/FinMME)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## 🔥 Overview
 
 Paper Link: [Arxiv](https://arxiv.org/abs/2505.24714).
 
-**FinMME** is a comprehensive benchmark dataset designed to evaluate Multimodal Large Language Models (MLLMs) in the financial domain. With around **11,000 high-quality financial samples** spanning **18 financial domains** and **6 asset classes**, FinMME provides a rigorous evaluation framework for financial multimodal reasoning capabilities.
+**FinFusion* is a comprehensive benchmark dataset designed to evaluate Multimodal Large Language Models (MLLMs) in the financial domain. With around **11,000 high-quality financial samples** spanning **18 financial domains** and **6 asset classes**, FinMME provides a rigorous evaluation framework for financial multimodal reasoning capabilities.
 
 ![Taxonomy](plot/taxo.png)
 
@@ -109,15 +108,3 @@ FinScore = Domain_Normalized_Score × (1 - Hallucination_Penalty)
 3. **Cognition & Reasoning**: Data inference, trend prediction, causal analysis
 
 
-## 📚 Citation
-
-If you find FinMME useful, please consider citing:
-
-```bibtex
-@article{luo2025finmme,
-  title={FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation},
-  author={Luo, Junyu and Kou, Zhizhuo and Yang, Liming and Luo, Xiao and Huang, Jinsheng and Xiao, Zhiping and Peng, Jingshu and Liu, Chengzhong and Ji, Jiaming and Liu, Xuanzhe and others},
-  journal={arXiv preprint arXiv:2505.24714},
-  year={2025}
-}
-```
