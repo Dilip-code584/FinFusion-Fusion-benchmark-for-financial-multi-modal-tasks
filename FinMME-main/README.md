@@ -1,4 +1,4 @@
-# FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation
+FinFusion – Fusion benchmark for financial multi-modal tasks
 
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-FinMME-blue)](https://huggingface.co/datasets/luojunyu/FinMME)
 [![Paper](https://img.shields.io/badge/📄%20Paper-ACL%202025-red)](https://github.com/luo-junyu/FinMME)
