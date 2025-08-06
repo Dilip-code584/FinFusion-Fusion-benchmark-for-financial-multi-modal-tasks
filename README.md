@@ -9,7 +9,6 @@ Paper Link: [Arxiv](https://arxiv.org/abs/2505.24714).
 
 **FinFusion* is a comprehensive benchmark dataset designed to evaluate Multimodal Large Language Models (MLLMs) in the financial domain. With around **11,000 high-quality financial samples** spanning **18 financial domains** and **6 asset classes**, FinMME provides a rigorous evaluation framework for financial multimodal reasoning capabilities.
 
-![Taxonomy](plot/taxo.png)
 
 
 ## 🚀 Quick Start
